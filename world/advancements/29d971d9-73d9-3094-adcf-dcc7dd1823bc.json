@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2023-01-27 13:58:19 -0500"
+    },
+    "done": true
+  },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "wheat": "2023-01-26 13:42:12 -0500"
@@ -91,10 +97,18 @@
       "cooked_porkchop": "2023-01-26 12:56:32 -0500",
       "cooked_mutton": "2023-01-26 12:30:49 -0500",
       "cooked_beef": "2023-01-26 11:57:47 -0500",
+      "cooked_cod": "2023-01-27 13:15:40 -0500",
       "bread": "2023-01-26 12:15:09 -0500",
-      "rotten_flesh": "2023-01-26 10:23:10 -0500"
+      "rotten_flesh": "2023-01-26 10:23:10 -0500",
+      "cooked_chicken": "2023-01-27 13:04:49 -0500"
     },
     "done": false
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2023-01-27 13:58:10 -0500"
+    },
+    "done": true
   },
   "minecraft:story/mine_stone": {
     "criteria": {
@@ -121,6 +135,7 @@
       "minecraft:river": "2023-01-26 11:59:37 -0500",
       "minecraft:snowy_plains": "2023-01-26 10:18:50 -0500",
       "minecraft:forest": "2023-01-26 12:17:56 -0500",
+      "minecraft:snowy_beach": "2023-01-27 13:49:10 -0500",
       "minecraft:plains": "2023-01-26 11:53:59 -0500"
     },
     "done": false
