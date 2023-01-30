@@ -26,6 +26,12 @@
     },
     "done": false
   },
+  "repurposed_structures:pyramids": {
+    "criteria": {
+      "in_pyramid_snowy": "2023-01-29 18:35:51 -0500"
+    },
+    "done": false
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2023-01-26 10:56:32 -0500"
@@ -34,14 +40,26 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2023-01-29 20:18:40 -0500",
+      "minecraft:pillager": "2023-01-29 18:47:13 -0500",
       "minecraft:skeleton": "2023-01-26 13:41:38 -0500",
+      "minecraft:vindicator": "2023-01-29 18:52:30 -0500",
       "minecraft:spider": "2023-01-26 11:49:00 -0500",
       "minecraft:creeper": "2023-01-26 11:56:50 -0500",
+      "minecraft:wither_skeleton": "2023-01-29 20:18:04 -0500",
+      "minecraft:piglin": "2023-01-29 20:17:36 -0500",
       "minecraft:enderman": "2023-01-29 11:45:01 -0500",
       "minecraft:stray": "2023-01-29 10:45:45 -0500",
-      "minecraft:zombie": "2023-01-26 10:56:32 -0500"
+      "minecraft:zombie": "2023-01-26 10:56:32 -0500",
+      "minecraft:drowned": "2023-01-29 19:04:33 -0500"
     },
     "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2023-01-29 20:12:32 -0500"
+    },
+    "done": true
   },
   "minecraft:story/obtain_armor": {
     "criteria": {
@@ -61,7 +79,9 @@
       "cooked_mutton": "2023-01-26 12:30:49 -0500",
       "cooked_beef": "2023-01-26 11:57:47 -0500",
       "baked_potato": "2023-01-29 12:53:05 -0500",
+      "potato": "2023-01-29 19:43:48 -0500",
       "cooked_cod": "2023-01-27 13:15:40 -0500",
+      "poisonous_potato": "2023-01-29 19:29:31 -0500",
       "bread": "2023-01-26 12:15:09 -0500",
       "rotten_flesh": "2023-01-26 10:23:10 -0500",
       "cooked_chicken": "2023-01-27 13:04:49 -0500",
@@ -75,9 +95,21 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2023-01-29 20:16:50 -0500"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2023-01-26 11:04:22 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2023-01-29 20:12:32 -0500"
     },
     "done": true
   },
@@ -93,6 +125,13 @@
     },
     "done": false
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2023-01-29 20:12:33 -0500",
+      "minecraft:nether_wastes": "2023-01-29 20:14:10 -0500"
+    },
+    "done": false
+  },
   "create:andesite_casing": {
     "criteria": {
       "0": "2023-01-29 17:54:20 -0500"
@@ -102,6 +141,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2023-01-26 13:36:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2023-01-29 20:15:57 -0500"
     },
     "done": true
   },
@@ -156,6 +201,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2023-01-27 13:58:10 -0500"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2023-01-29 20:18:28 -0500"
     },
     "done": true
   },
