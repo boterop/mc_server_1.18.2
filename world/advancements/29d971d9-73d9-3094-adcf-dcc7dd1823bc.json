@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "create:brass": {
+    "criteria": {
+      "0": "2023-01-30 21:14:09 -0500"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:frozen_river": "2023-01-26 11:53:43 -0500",
@@ -204,6 +210,12 @@
     },
     "done": true
   },
+  "create:brass_casing": {
+    "criteria": {
+      "0": "2023-01-30 21:19:57 -0500"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/crimson_mosquito": {
     "criteria": {
       "killed_by": "2023-01-29 20:18:28 -0500"
@@ -219,6 +231,18 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2023-01-26 13:42:12 -0500"
+    },
+    "done": true
+  },
+  "create:mechanical_crafter": {
+    "criteria": {
+      "0": "2023-01-30 21:29:53 -0500"
+    },
+    "done": true
+  },
+  "create:rose_quartz": {
+    "criteria": {
+      "0": "2023-01-30 21:18:58 -0500"
     },
     "done": true
   },

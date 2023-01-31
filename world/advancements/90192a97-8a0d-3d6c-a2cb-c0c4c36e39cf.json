@@ -85,6 +85,18 @@
     },
     "done": true
   },
+  "create:crushing_wheel": {
+    "criteria": {
+      "0": "2023-01-30 21:41:17 -0500"
+    },
+    "done": true
+  },
+  "create:mechanical_mixer": {
+    "criteria": {
+      "0": "2023-01-30 21:06:55 -0500"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/grizzly_bear": {
     "criteria": {
       "killed_by": "2023-01-29 00:34:13 -0500"
@@ -185,6 +197,12 @@
     },
     "done": false
   },
+  "create:mechanical_crafter": {
+    "criteria": {
+      "0": "2023-01-30 21:29:53 -0500"
+    },
+    "done": true
+  },
   "create:funnel": {
     "criteria": {
       "0": "2023-01-29 17:36:52 -0500"
@@ -200,6 +218,12 @@
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2023-01-26 11:25:12 -0500"
+    },
+    "done": true
+  },
+  "create:compacting": {
+    "criteria": {
+      "0": "2023-01-30 20:36:51 -0500"
     },
     "done": true
   },
@@ -253,6 +277,24 @@
     },
     "done": false
   },
+  "create:encased_fan": {
+    "criteria": {
+      "0": "2023-01-30 18:45:11 -0500"
+    },
+    "done": true
+  },
+  "create:chute": {
+    "criteria": {
+      "0": "2023-01-30 20:38:51 -0500"
+    },
+    "done": true
+  },
+  "create:brass": {
+    "criteria": {
+      "0": "2023-01-30 21:08:12 -0500"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2023-01-29 14:07:00 -0500",
@@ -290,6 +332,12 @@
     },
     "done": true
   },
+  "create:fan_processing": {
+    "criteria": {
+      "0": "2023-01-30 21:42:12 -0500"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/root": {
     "criteria": {
       "useitem": "2023-01-26 11:34:49 -0500"
@@ -299,6 +347,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2023-01-26 11:26:49 -0500"
+    },
+    "done": true
+  },
+  "create:burner": {
+    "criteria": {
+      "0": "2023-01-30 20:53:10 -0500"
     },
     "done": true
   },
@@ -320,6 +374,12 @@
     },
     "done": true
   },
+  "create:belt": {
+    "criteria": {
+      "0": "2023-01-30 17:48:00 -0500"
+    },
+    "done": true
+  },
   "create:contraption_actors": {
     "criteria": {
       "0": "2023-01-29 19:44:33 -0500"
@@ -329,6 +389,12 @@
   "alexsmobs:alexsmobs/crimson_mosquito": {
     "criteria": {
       "killed": "2023-01-29 20:13:20 -0500"
+    },
+    "done": true
+  },
+  "create:rose_quartz": {
+    "criteria": {
+      "0": "2023-01-30 21:11:46 -0500"
     },
     "done": true
   },
