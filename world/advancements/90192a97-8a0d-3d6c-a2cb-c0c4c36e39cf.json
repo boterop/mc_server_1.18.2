@@ -381,6 +381,12 @@
     },
     "done": true
   },
+  "create:brass_casing": {
+    "criteria": {
+      "0": "2023-02-01 20:55:57 -0500"
+    },
+    "done": true
+  },
   "create:contraption_actors": {
     "criteria": {
       "0": "2023-01-29 19:44:33 -0500"

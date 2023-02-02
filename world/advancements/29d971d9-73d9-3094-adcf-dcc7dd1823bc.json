@@ -19,6 +19,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "sugar_cane": "2023-02-01 21:16:55 -0500",
       "potato": "2023-01-29 11:35:07 -0500",
       "wheat": "2023-01-26 13:42:12 -0500",
       "melon": "2023-01-29 15:03:07 -0500",
@@ -46,6 +47,7 @@
       "minecraft:vindicator": "2023-01-29 18:52:30 -0500",
       "minecraft:spider": "2023-01-26 11:49:00 -0500",
       "minecraft:creeper": "2023-01-26 11:56:50 -0500",
+      "minecraft:witch": "2023-02-01 21:36:08 -0500",
       "minecraft:wither_skeleton": "2023-01-29 20:18:04 -0500",
       "minecraft:piglin": "2023-01-29 20:17:36 -0500",
       "minecraft:enderman": "2023-01-29 11:45:01 -0500",
