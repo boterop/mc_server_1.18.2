@@ -47,6 +47,7 @@
       "minecraft:vindicator": "2023-01-29 18:52:30 -0500",
       "minecraft:spider": "2023-01-26 11:49:00 -0500",
       "minecraft:creeper": "2023-01-26 11:56:50 -0500",
+      "minecraft:phantom": "2023-02-02 20:53:08 -0500",
       "minecraft:witch": "2023-02-01 21:36:08 -0500",
       "minecraft:wither_skeleton": "2023-01-29 20:18:04 -0500",
       "minecraft:piglin": "2023-01-29 20:17:36 -0500",
@@ -173,6 +174,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2023-01-27 13:58:19 -0500"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_hammer": {
+    "criteria": {
+      "hammer": "2023-02-02 22:43:26 -0500"
     },
     "done": true
   },
