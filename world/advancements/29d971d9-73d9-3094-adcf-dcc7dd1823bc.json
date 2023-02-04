@@ -5,18 +5,6 @@
     },
     "done": true
   },
-  "farmersdelight:main/root": {
-    "criteria": {
-      "seeds": "2023-01-26 10:18:50 -0500"
-    },
-    "done": true
-  },
-  "farmersdelight:main/get_fd_seed": {
-    "criteria": {
-      "onion": "2023-01-26 11:59:04 -0500"
-    },
-    "done": true
-  },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "sugar_cane": "2023-02-01 21:16:55 -0500",
@@ -39,28 +27,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_all_mobs": {
+  "create:millstone": {
     "criteria": {
-      "minecraft:blaze": "2023-01-29 20:18:40 -0500",
-      "minecraft:pillager": "2023-01-29 18:47:13 -0500",
-      "minecraft:skeleton": "2023-01-26 13:41:38 -0500",
-      "minecraft:vindicator": "2023-01-29 18:52:30 -0500",
-      "minecraft:spider": "2023-01-26 11:49:00 -0500",
-      "minecraft:creeper": "2023-01-26 11:56:50 -0500",
-      "minecraft:phantom": "2023-02-02 20:53:08 -0500",
-      "minecraft:witch": "2023-02-01 21:36:08 -0500",
-      "minecraft:wither_skeleton": "2023-01-29 20:18:04 -0500",
-      "minecraft:piglin": "2023-01-29 20:17:36 -0500",
-      "minecraft:enderman": "2023-01-29 11:45:01 -0500",
-      "minecraft:stray": "2023-01-29 10:45:45 -0500",
-      "minecraft:zombie": "2023-01-26 10:56:32 -0500",
-      "minecraft:drowned": "2023-01-29 19:04:33 -0500"
-    },
-    "done": false
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2023-01-29 20:12:32 -0500"
+      "0": "2023-02-03 22:56:04 -0500"
     },
     "done": true
   },
@@ -75,23 +44,6 @@
       "0": "2023-01-29 10:22:06 -0500"
     },
     "done": true
-  },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "cooked_porkchop": "2023-01-26 12:56:32 -0500",
-      "cooked_mutton": "2023-01-26 12:30:49 -0500",
-      "cooked_beef": "2023-01-26 11:57:47 -0500",
-      "baked_potato": "2023-01-29 12:53:05 -0500",
-      "potato": "2023-01-29 19:43:48 -0500",
-      "cooked_cod": "2023-01-27 13:15:40 -0500",
-      "poisonous_potato": "2023-01-29 19:29:31 -0500",
-      "bread": "2023-01-26 12:15:09 -0500",
-      "rotten_flesh": "2023-01-26 10:23:10 -0500",
-      "melon_slice": "2023-02-03 22:18:37 -0500",
-      "cooked_chicken": "2023-01-27 13:04:49 -0500",
-      "carrot": "2023-01-29 12:50:10 -0500"
-    },
-    "done": false
   },
   "create:andesite_alloy": {
     "criteria": {
@@ -111,21 +63,15 @@
     },
     "done": true
   },
-  "create:encased_fan": {
-    "criteria": {
-      "0": "2023-02-03 20:21:29 -0500"
-    },
-    "done": true
-  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2023-01-29 20:12:32 -0500"
     },
     "done": true
   },
-  "create:brass": {
+  "create:water_wheel": {
     "criteria": {
-      "0": "2023-01-30 21:14:09 -0500"
+      "0": "2023-02-03 22:55:18 -0500"
     },
     "done": true
   },
@@ -140,13 +86,6 @@
       "minecraft:lush_caves": "2023-02-03 18:31:13 -0500",
       "minecraft:snowy_beach": "2023-01-27 13:49:10 -0500",
       "minecraft:plains": "2023-01-26 11:53:59 -0500"
-    },
-    "done": false
-  },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:crimson_forest": "2023-01-29 20:12:33 -0500",
-      "minecraft:nether_wastes": "2023-01-29 20:14:10 -0500"
     },
     "done": false
   },
@@ -174,27 +113,155 @@
     },
     "done": true
   },
-  "create:root": {
-    "criteria": {
-      "0": "2023-01-26 10:18:50 -0500"
-    },
-    "done": true
-  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2023-01-26 10:23:10 -0500"
     },
     "done": true
   },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2023-01-27 13:58:19 -0500"
-    },
-    "done": true
-  },
   "immersiveengineering:main/craft_hammer": {
     "criteria": {
       "hammer": "2023-02-02 22:43:26 -0500"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/root": {
+    "criteria": {
+      "tick": "2023-01-26 10:18:50 -0500"
+    },
+    "done": true
+  },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2023-02-03 21:49:57 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2023-01-26 10:20:54 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2023-01-26 13:42:12 -0500"
+    },
+    "done": true
+  },
+  "repurposed_structures:mineshafts": {
+    "criteria": {
+      "in_mineshaft_icy": "2023-02-03 18:17:16 -0500"
+    },
+    "done": false
+  },
+  "create:mechanical_crafter": {
+    "criteria": {
+      "0": "2023-01-30 21:29:53 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2023-01-29 10:25:36 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2023-01-29 11:28:10 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2023-01-26 10:18:50 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2023-01-26 11:59:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:blaze": "2023-01-29 20:18:40 -0500",
+      "minecraft:pillager": "2023-01-29 18:47:13 -0500",
+      "minecraft:skeleton": "2023-01-26 13:41:38 -0500",
+      "minecraft:vindicator": "2023-01-29 18:52:30 -0500",
+      "minecraft:spider": "2023-01-26 11:49:00 -0500",
+      "minecraft:creeper": "2023-01-26 11:56:50 -0500",
+      "minecraft:phantom": "2023-02-02 20:53:08 -0500",
+      "minecraft:witch": "2023-02-01 21:36:08 -0500",
+      "minecraft:wither_skeleton": "2023-01-29 20:18:04 -0500",
+      "minecraft:piglin": "2023-01-29 20:17:36 -0500",
+      "minecraft:enderman": "2023-01-29 11:45:01 -0500",
+      "minecraft:stray": "2023-01-29 10:45:45 -0500",
+      "minecraft:zombie": "2023-01-26 10:56:32 -0500",
+      "minecraft:drowned": "2023-01-29 19:04:33 -0500"
+    },
+    "done": false
+  },
+  "immersiveengineering:main/craft_workbench": {
+    "criteria": {
+      "workbench": "2023-02-03 23:03:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2023-01-29 20:12:32 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2023-01-26 12:56:32 -0500",
+      "cooked_mutton": "2023-01-26 12:30:49 -0500",
+      "cooked_beef": "2023-01-26 11:57:47 -0500",
+      "baked_potato": "2023-01-29 12:53:05 -0500",
+      "apple": "2023-02-03 22:53:31 -0500",
+      "potato": "2023-01-29 19:43:48 -0500",
+      "cooked_cod": "2023-01-27 13:15:40 -0500",
+      "poisonous_potato": "2023-01-29 19:29:31 -0500",
+      "bread": "2023-01-26 12:15:09 -0500",
+      "rotten_flesh": "2023-01-26 10:23:10 -0500",
+      "melon_slice": "2023-02-03 22:18:37 -0500",
+      "cooked_chicken": "2023-01-27 13:04:49 -0500",
+      "carrot": "2023-01-29 12:50:10 -0500"
+    },
+    "done": false
+  },
+  "create:encased_fan": {
+    "criteria": {
+      "0": "2023-02-03 20:21:29 -0500"
+    },
+    "done": true
+  },
+  "create:brass": {
+    "criteria": {
+      "0": "2023-01-30 21:14:09 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2023-01-29 20:12:33 -0500",
+      "minecraft:nether_wastes": "2023-01-29 20:14:10 -0500"
+    },
+    "done": false
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2023-01-26 10:18:50 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2023-01-27 13:58:19 -0500"
     },
     "done": true
   },
@@ -228,18 +295,6 @@
     },
     "done": true
   },
-  "undergarden:undergarden/root": {
-    "criteria": {
-      "tick": "2023-01-26 10:18:50 -0500"
-    },
-    "done": true
-  },
-  "create:shifting_gears": {
-    "criteria": {
-      "0": "2023-02-03 21:49:57 -0500"
-    },
-    "done": true
-  },
   "player_companions:grant_book_on_first_join": {
     "criteria": {
       "tick": "2023-01-26 10:18:50 -0500"
@@ -264,45 +319,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_by_something": "2023-01-26 10:20:54 -0500"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/plant_seed": {
-    "criteria": {
-      "wheat": "2023-01-26 13:42:12 -0500"
-    },
-    "done": true
-  },
-  "repurposed_structures:mineshafts": {
-    "criteria": {
-      "in_mineshaft_icy": "2023-02-03 18:17:16 -0500"
-    },
-    "done": false
-  },
-  "create:mechanical_crafter": {
-    "criteria": {
-      "0": "2023-01-30 21:29:53 -0500"
-    },
-    "done": true
-  },
   "create:rose_quartz": {
     "criteria": {
       "0": "2023-01-30 21:18:58 -0500"
-    },
-    "done": true
-  },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2023-01-29 10:25:36 -0500"
-    },
-    "done": true
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2023-01-29 11:28:10 -0500"
     },
     "done": true
   },
