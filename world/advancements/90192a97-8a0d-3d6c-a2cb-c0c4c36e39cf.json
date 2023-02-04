@@ -121,7 +121,9 @@
       "minecraft:snowy_taiga": "2023-01-29 13:14:05 -0500",
       "minecraft:cold_ocean": "2023-01-29 12:37:47 -0500",
       "minecraft:forest": "2023-01-26 11:56:24 -0500",
+      "minecraft:lush_caves": "2023-02-03 18:30:41 -0500",
       "minecraft:old_growth_spruce_taiga": "2023-01-29 12:35:41 -0500",
+      "minecraft:snowy_beach": "2023-02-03 20:27:46 -0500",
       "minecraft:plains": "2023-01-26 11:48:12 -0500"
     },
     "done": false
@@ -173,6 +175,12 @@
       "in_outpost_snowy": "2023-01-29 13:13:22 -0500"
     },
     "done": false
+  },
+  "create:portable_storage_interface": {
+    "criteria": {
+      "0": "2023-02-03 19:32:43 -0500"
+    },
+    "done": true
   },
   "undergarden:undergarden/root": {
     "criteria": {
@@ -228,6 +236,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "rice": "2023-02-03 17:42:26 -0500"
+    },
+    "done": true
+  },
   "create:compacting": {
     "criteria": {
       "0": "2023-01-30 20:36:51 -0500"
@@ -249,6 +263,7 @@
       "minecraft:phantom": "2023-01-29 13:06:34 -0500",
       "minecraft:witch": "2023-01-29 18:48:09 -0500",
       "minecraft:wither_skeleton": "2023-01-29 20:15:55 -0500",
+      "minecraft:cave_spider": "2023-02-03 18:31:04 -0500",
       "minecraft:piglin": "2023-01-29 20:13:50 -0500",
       "minecraft:enderman": "2023-01-26 11:55:24 -0500",
       "minecraft:stray": "2023-01-29 13:04:30 -0500",
@@ -269,6 +284,7 @@
       "cooked_porkchop": "2023-01-26 12:18:25 -0500",
       "honey_bottle": "2023-01-29 18:50:09 -0500",
       "cooked_mutton": "2023-01-29 02:00:16 -0500",
+      "sweet_berries": "2023-02-03 19:22:03 -0500",
       "cooked_beef": "2023-01-26 11:58:18 -0500",
       "baked_potato": "2023-01-29 19:18:19 -0500",
       "beetroot_soup": "2023-01-29 12:45:03 -0500",
@@ -276,11 +292,14 @@
       "potato": "2023-01-29 18:53:09 -0500",
       "pumpkin_pie": "2023-01-29 12:54:22 -0500",
       "bread": "2023-01-29 10:34:40 -0500",
+      "golden_apple": "2023-02-03 19:11:38 -0500",
       "cookie": "2023-01-29 13:14:53 -0500",
+      "glow_berries": "2023-02-03 20:26:19 -0500",
       "melon_slice": "2023-01-29 12:54:45 -0500",
       "cooked_rabbit": "2023-01-29 13:48:34 -0500",
       "cooked_chicken": "2023-01-29 11:19:41 -0500",
-      "cooked_salmon": "2023-01-29 12:29:46 -0500"
+      "cooked_salmon": "2023-01-29 12:29:46 -0500",
+      "carrot": "2023-02-03 18:43:56 -0500"
     },
     "done": false
   },
@@ -324,6 +343,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2023-01-29 00:27:35 -0500"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_revolver": {
+    "criteria": {
+      "revolver": "2023-02-03 22:19:01 -0500"
     },
     "done": true
   },
