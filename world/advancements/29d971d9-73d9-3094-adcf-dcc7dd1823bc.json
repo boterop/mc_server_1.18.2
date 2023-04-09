@@ -88,8 +88,11 @@
       "minecraft:beach": "2023-01-26 11:57:00 -0500",
       "minecraft:river": "2023-01-26 11:59:37 -0500",
       "minecraft:snowy_plains": "2023-01-26 10:18:50 -0500",
+      "minecraft:stony_shore": "2023-04-09 17:25:27 -0500",
+      "minecraft:cold_ocean": "2023-04-09 17:26:27 -0500",
       "minecraft:forest": "2023-01-26 12:17:56 -0500",
       "minecraft:lush_caves": "2023-02-03 18:31:13 -0500",
+      "minecraft:frozen_ocean": "2023-04-09 17:22:55 -0500",
       "minecraft:snowy_beach": "2023-01-27 13:49:10 -0500",
       "minecraft:plains": "2023-01-26 11:53:59 -0500"
     },
@@ -229,6 +232,12 @@
     },
     "done": true
   },
+  "create:lava_wheel_00000": {
+    "criteria": {
+      "0": "2023-04-09 16:51:34 -0500"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2023-01-26 12:56:32 -0500",
@@ -325,6 +334,12 @@
   "create:brass_casing": {
     "criteria": {
       "0": "2023-01-30 21:19:57 -0500"
+    },
+    "done": true
+  },
+  "create:belt": {
+    "criteria": {
+      "0": "2023-04-09 17:04:49 -0500"
     },
     "done": true
   },
