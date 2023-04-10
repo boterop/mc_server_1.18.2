@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "create:spout": {
+    "criteria": {
+      "0": "2023-04-09 18:45:53 -0500"
+    },
+    "done": true
+  },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "sugar_cane": "2023-02-01 21:16:55 -0500",
@@ -54,6 +60,12 @@
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2023-01-29 20:16:50 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2023-04-09 18:36:20 -0500"
     },
     "done": true
   },
@@ -134,6 +146,12 @@
     },
     "done": true
   },
+  "create:hose_pulley_lava": {
+    "criteria": {
+      "0": "2023-04-09 18:45:43 -0500"
+    },
+    "done": true
+  },
   "undergarden:undergarden/root": {
     "criteria": {
       "tick": "2023-01-26 10:18:50 -0500"
@@ -210,6 +228,7 @@
       "minecraft:spider": "2023-01-26 11:49:00 -0500",
       "minecraft:creeper": "2023-01-26 11:56:50 -0500",
       "minecraft:phantom": "2023-02-02 20:53:08 -0500",
+      "minecraft:zombified_piglin": "2023-04-09 19:39:48 -0500",
       "minecraft:witch": "2023-02-01 21:36:08 -0500",
       "minecraft:wither_skeleton": "2023-01-29 20:18:04 -0500",
       "minecraft:piglin": "2023-01-29 20:17:36 -0500",
@@ -264,9 +283,21 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2023-04-10 00:06:07 -0500"
+    },
+    "done": true
+  },
   "create:brass": {
     "criteria": {
       "0": "2023-01-30 21:14:09 -0500"
+    },
+    "done": true
+  },
+  "create:mechanical_pump_0": {
+    "criteria": {
+      "0": "2023-04-09 18:35:22 -0500"
     },
     "done": true
   },
@@ -346,6 +377,18 @@
   "alexsmobs:alexsmobs/crimson_mosquito": {
     "criteria": {
       "killed_by": "2023-01-29 20:18:28 -0500"
+    },
+    "done": true
+  },
+  "create:hose_pulley": {
+    "criteria": {
+      "0": "2023-04-09 18:45:43 -0500"
+    },
+    "done": true
+  },
+  "create:drain": {
+    "criteria": {
+      "0": "2023-04-09 23:18:24 -0500"
     },
     "done": true
   },
