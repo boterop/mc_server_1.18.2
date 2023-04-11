@@ -18,6 +18,12 @@
     },
     "done": true
   },
+  "create:deployer": {
+    "criteria": {
+      "0": "2023-04-10 20:42:13 -0500"
+    },
+    "done": true
+  },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "sugar_cane": "2023-02-01 21:16:55 -0500",
@@ -372,6 +378,12 @@
   "player_companions:grant_book_on_first_join": {
     "criteria": {
       "tick": "2023-01-26 10:18:50 -0500"
+    },
+    "done": true
+  },
+  "create:precision_mechanism": {
+    "criteria": {
+      "0": "2023-04-10 20:50:06 -0500"
     },
     "done": true
   },

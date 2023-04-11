@@ -5,11 +5,23 @@
     },
     "done": true
   },
+  "create:spout": {
+    "criteria": {
+      "0": "2023-04-10 21:19:37 -0500"
+    },
+    "done": true
+  },
   "create:wrench_goggles": {
     "criteria": {
       "0": "2023-01-29 19:56:38 -0500"
     },
     "done": false
+  },
+  "create:deployer": {
+    "criteria": {
+      "0": "2023-04-10 20:15:52 -0500"
+    },
+    "done": true
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
@@ -35,6 +47,12 @@
   "create:millstone": {
     "criteria": {
       "0": "2023-01-29 19:01:15 -0500"
+    },
+    "done": true
+  },
+  "create:arm_blaze_burner": {
+    "criteria": {
+      "0": "2023-04-10 21:00:30 -0500"
     },
     "done": true
   },
@@ -140,6 +158,12 @@
     },
     "done": true
   },
+  "create:mechanical_arm": {
+    "criteria": {
+      "0": "2023-04-10 21:04:46 -0500"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2023-01-27 12:38:52 -0500"
@@ -197,6 +221,12 @@
   "create:shifting_gears": {
     "criteria": {
       "0": "2023-01-29 19:40:28 -0500"
+    },
+    "done": true
+  },
+  "create:glass_pipe": {
+    "criteria": {
+      "0": "2023-04-10 23:29:03 -0500"
     },
     "done": true
   },
@@ -329,12 +359,24 @@
     },
     "done": true
   },
+  "create:mechanical_pump_0": {
+    "criteria": {
+      "0": "2023-04-10 23:33:09 -0500"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2023-01-29 14:07:00 -0500",
       "minecraft:nether_wastes": "2023-01-29 14:08:50 -0500"
     },
     "done": false
+  },
+  "create:crusher_maxed_0000": {
+    "criteria": {
+      "0": "2023-04-10 22:05:08 -0500"
+    },
+    "done": true
   },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
@@ -399,6 +441,12 @@
   "player_companions:grant_book_on_first_join": {
     "criteria": {
       "tick": "2023-01-26 11:25:14 -0500"
+    },
+    "done": true
+  },
+  "create:precision_mechanism": {
+    "criteria": {
+      "0": "2023-04-10 20:47:47 -0500"
     },
     "done": true
   },
