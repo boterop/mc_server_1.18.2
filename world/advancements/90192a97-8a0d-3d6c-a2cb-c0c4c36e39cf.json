@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "create:steam_whistle": {
+    "criteria": {
+      "0": "2023-04-11 23:28:31 -0500"
+    },
+    "done": true
+  },
   "create:wrench_goggles": {
     "criteria": {
       "0": "2023-01-29 19:56:38 -0500"
