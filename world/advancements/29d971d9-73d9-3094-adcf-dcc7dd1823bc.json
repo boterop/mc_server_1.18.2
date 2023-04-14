@@ -249,6 +249,12 @@
     },
     "done": true
   },
+  "create:funnel": {
+    "criteria": {
+      "0": "2023-04-13 22:06:59 -0500"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2023-01-29 10:25:36 -0500"
