@@ -475,6 +475,12 @@
     },
     "done": true
   },
+  "create:track_crafting_factory": {
+    "criteria": {
+      "0": "2023-08-04 21:33:29 -0500"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2023-01-26 12:36:57 -0500"

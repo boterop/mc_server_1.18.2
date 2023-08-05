@@ -1,0 +1,250 @@
+{
+  "idas:idas_root": {
+    "criteria": {
+      "always": "2023-08-04 21:49:58 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2023-08-04 21:49:58 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2023-08-04 22:30:44 -0500"
+    },
+    "done": true
+  },
+  "repurposed_structures:igloos": {
+    "criteria": {
+      "in_igloo_grassy": "2023-08-05 00:32:16 -0500"
+    },
+    "done": false
+  },
+  "repurposed_structures:pyramids": {
+    "criteria": {
+      "in_pyramid_snowy": "2023-08-05 00:34:04 -0500"
+    },
+    "done": false
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sugar_cane": "2023-08-04 22:13:01 -0500",
+      "potato": "2023-08-04 23:35:12 -0500",
+      "wheat": "2023-08-04 22:09:41 -0500",
+      "carrot": "2023-08-04 23:35:05 -0500"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2023-08-04 22:28:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:blaze": "2023-08-04 23:52:40 -0500",
+      "minecraft:pillager": "2023-08-04 23:36:12 -0500",
+      "minecraft:skeleton": "2023-08-04 23:04:19 -0500",
+      "minecraft:hoglin": "2023-08-04 23:58:22 -0500",
+      "minecraft:magma_cube": "2023-08-04 23:52:55 -0500",
+      "minecraft:spider": "2023-08-04 23:43:52 -0500",
+      "minecraft:creeper": "2023-08-04 22:53:42 -0500",
+      "minecraft:witch": "2023-08-05 00:41:26 -0500",
+      "minecraft:wither_skeleton": "2023-08-04 23:53:56 -0500",
+      "minecraft:piglin": "2023-08-04 23:51:15 -0500",
+      "minecraft:enderman": "2023-08-04 23:43:33 -0500",
+      "minecraft:stray": "2023-08-04 22:28:27 -0500",
+      "minecraft:zombie": "2023-08-04 22:28:05 -0500"
+    },
+    "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2023-08-04 23:50:54 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2023-08-04 22:24:58 -0500"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2023-08-04 23:22:17 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "sweet_berries": "2023-08-05 00:35:38 -0500",
+      "baked_potato": "2023-08-04 22:47:03 -0500",
+      "potato": "2023-08-04 23:35:23 -0500",
+      "bread": "2023-08-04 22:34:30 -0500",
+      "golden_apple": "2023-08-05 00:03:49 -0500",
+      "melon_slice": "2023-08-04 22:01:13 -0500",
+      "carrot": "2023-08-04 23:35:08 -0500"
+    },
+    "done": false
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2023-08-04 23:52:42 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2023-08-04 22:43:42 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2023-08-04 23:50:54 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2023-08-04 21:58:19 -0500",
+      "minecraft:frozen_river": "2023-08-05 00:49:24 -0500",
+      "minecraft:beach": "2023-08-04 21:58:30 -0500",
+      "minecraft:river": "2023-08-04 21:55:12 -0500",
+      "minecraft:stony_shore": "2023-08-04 21:57:08 -0500",
+      "minecraft:snowy_plains": "2023-08-04 21:49:58 -0500",
+      "minecraft:snowy_taiga": "2023-08-04 23:36:21 -0500",
+      "minecraft:forest": "2023-08-04 21:57:34 -0500",
+      "minecraft:snowy_beach": "2023-08-04 23:33:41 -0500",
+      "minecraft:plains": "2023-08-04 21:54:47 -0500"
+    },
+    "done": false
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2023-08-04 23:50:54 -0500",
+      "minecraft:nether_wastes": "2023-08-04 23:52:08 -0500"
+    },
+    "done": false
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2023-08-04 22:07:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2023-08-04 23:52:25 -0500"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2023-08-04 21:49:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2023-08-04 22:24:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2023-08-04 21:56:54 -0500"
+    },
+    "done": true
+  },
+  "repurposed_structures:outposts": {
+    "criteria": {
+      "in_outpost_snowy": "2023-08-04 23:36:07 -0500"
+    },
+    "done": false
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2023-08-04 22:43:21 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2023-08-04 22:58:25 -0500"
+    },
+    "done": true
+  },
+  "repurposed_structures:ruins": {
+    "criteria": {
+      "in_ruins_nether": "2023-08-05 00:02:22 -0500"
+    },
+    "done": false
+  },
+  "undergarden:undergarden/root": {
+    "criteria": {
+      "tick": "2023-08-04 21:49:58 -0500"
+    },
+    "done": true
+  },
+  "player_companions:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2023-08-04 21:49:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2023-08-04 22:10:58 -0500"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2023-08-04 23:54:59 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2023-08-04 22:28:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2023-08-04 22:09:41 -0500"
+    },
+    "done": true
+  },
+  "repurposed_structures:mineshafts": {
+    "criteria": {
+      "in_mineshaft_icy": "2023-08-04 22:47:55 -0500"
+    },
+    "done": false
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2023-08-04 22:41:58 -0500"
+    },
+    "done": true
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2023-08-04 21:49:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2023-08-04 23:50:39 -0500"
+    },
+    "done": true
+  },
+  "DataVersion": 2975
+}
