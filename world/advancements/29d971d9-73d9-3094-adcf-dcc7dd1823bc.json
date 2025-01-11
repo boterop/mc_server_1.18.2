@@ -121,15 +121,20 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2023-02-03 18:18:49 -0500",
+      "minecraft:deep_ocean": "2025-01-09 17:15:43 -0500",
       "minecraft:frozen_river": "2023-01-26 11:53:43 -0500",
+      "minecraft:birch_forest": "2025-01-09 17:15:12 -0500",
       "minecraft:beach": "2023-01-26 11:57:00 -0500",
       "minecraft:river": "2023-01-26 11:59:37 -0500",
       "minecraft:snowy_plains": "2023-01-26 10:18:50 -0500",
       "minecraft:stony_shore": "2023-04-09 17:25:27 -0500",
+      "minecraft:snowy_taiga": "2025-01-09 18:31:28 -0500",
       "minecraft:cold_ocean": "2023-04-09 17:26:27 -0500",
       "minecraft:forest": "2023-01-26 12:17:56 -0500",
       "minecraft:lush_caves": "2023-02-03 18:31:13 -0500",
       "minecraft:frozen_ocean": "2023-04-09 17:22:55 -0500",
+      "minecraft:ocean": "2025-01-09 17:15:14 -0500",
+      "minecraft:old_growth_spruce_taiga": "2025-01-09 17:14:33 -0500",
       "minecraft:snowy_beach": "2023-01-27 13:49:10 -0500",
       "minecraft:plains": "2023-01-26 11:53:59 -0500"
     },
@@ -186,6 +191,18 @@
   "immersiveengineering:main/craft_hammer": {
     "criteria": {
       "hammer": "2023-02-02 22:43:26 -0500"
+    },
+    "done": true
+  },
+  "repurposed_structures:outposts": {
+    "criteria": {
+      "in_outpost_snowy": "2025-01-09 18:31:20 -0500"
+    },
+    "done": false
+  },
+  "immersive_aircraft:misc/aircraftery": {
+    "criteria": {
+      "has_item": "2025-01-08 23:36:27 -0500"
     },
     "done": true
   },
@@ -285,11 +302,18 @@
     },
     "done": true
   },
+  "create:compacting": {
+    "criteria": {
+      "0": "2025-01-08 18:20:31 -0500"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2023-01-29 20:18:40 -0500",
       "minecraft:pillager": "2023-01-29 18:47:13 -0500",
       "minecraft:skeleton": "2023-01-26 13:41:38 -0500",
+      "minecraft:ghast": "2025-01-09 00:24:52 -0500",
       "minecraft:hoglin": "2023-04-09 15:49:55 -0500",
       "minecraft:vindicator": "2023-01-29 18:52:30 -0500",
       "minecraft:spider": "2023-01-26 11:49:00 -0500",
@@ -302,8 +326,10 @@
       "minecraft:piglin": "2023-01-29 20:17:36 -0500",
       "minecraft:enderman": "2023-01-29 11:45:01 -0500",
       "minecraft:stray": "2023-01-29 10:45:45 -0500",
+      "minecraft:vex": "2025-01-10 20:19:49 -0500",
       "minecraft:zombie": "2023-01-26 10:56:32 -0500",
-      "minecraft:drowned": "2023-01-29 19:04:33 -0500"
+      "minecraft:drowned": "2023-01-29 19:04:33 -0500",
+      "minecraft:zombie_villager": "2025-01-08 20:14:31 -0500"
     },
     "done": false
   },
@@ -325,6 +351,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/skelewag": {
+    "criteria": {
+      "killed_by": "2025-01-09 17:17:12 -0500"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2023-01-26 12:56:32 -0500",
@@ -339,15 +371,29 @@
       "poisonous_potato": "2023-01-29 19:29:31 -0500",
       "bread": "2023-01-26 12:15:09 -0500",
       "rotten_flesh": "2023-01-26 10:23:10 -0500",
+      "dried_kelp": "2025-01-09 18:55:04 -0500",
       "melon_slice": "2023-02-03 22:18:37 -0500",
       "cooked_chicken": "2023-01-27 13:04:49 -0500",
+      "cod": "2025-01-09 17:38:05 -0500",
       "carrot": "2023-01-29 12:50:10 -0500"
     },
     "done": false
   },
+  "create:train_roadkill": {
+    "criteria": {
+      "0": "2025-01-08 21:31:58 -0500"
+    },
+    "done": true
+  },
   "create:encased_fan": {
     "criteria": {
       "0": "2023-02-03 20:21:29 -0500"
+    },
+    "done": true
+  },
+  "idas:pillager_fortress": {
+    "criteria": {
+      "in_pillager_fortress": "2025-01-10 20:08:54 -0500"
     },
     "done": true
   },
@@ -375,6 +421,12 @@
       "minecraft:nether_wastes": "2023-01-29 20:14:10 -0500"
     },
     "done": false
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-01-09 18:31:56 -0500"
+    },
+    "done": true
   },
   "create:root": {
     "criteria": {
@@ -433,6 +485,12 @@
   "create:track_0": {
     "criteria": {
       "0": "2023-04-12 00:01:02 -0500"
+    },
+    "done": true
+  },
+  "create:burner": {
+    "criteria": {
+      "0": "2025-01-08 22:49:24 -0500"
     },
     "done": true
   },

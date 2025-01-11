@@ -243,6 +243,12 @@
     },
     "done": true
   },
+  "create:copper_casing": {
+    "criteria": {
+      "0": "2023-08-05 14:56:37 -0500"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2023-01-26 11:45:29 -0500"
@@ -353,6 +359,12 @@
       "carrot": "2023-02-03 18:43:56 -0500"
     },
     "done": false
+  },
+  "create:train_roadkill": {
+    "criteria": {
+      "0": "2025-01-08 21:10:58 -0500"
+    },
+    "done": true
   },
   "create:encased_fan": {
     "criteria": {

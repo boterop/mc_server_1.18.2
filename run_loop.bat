@@ -14,7 +14,7 @@ REM DATETIME
 	set hour=%DateTime:~8,2%
 	set min=%DateTime:~10,2%
 	set time=%year%-%month%-%day%_%hour%:%min%:00
-	git commit -S -m (backup)%time%
+	git commit -m (backup)%time%
 	git push origin main
 	goto :loop
 

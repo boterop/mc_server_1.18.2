@@ -1,0 +1,500 @@
+{
+  "idas:idas_root": {
+    "criteria": {
+      "always": "2025-01-09 14:31:32 -0500"
+    },
+    "done": true
+  },
+  "create:steam_whistle": {
+    "criteria": {
+      "0": "2025-01-09 23:40:35 -0500"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-01-09 14:40:18 -0500",
+      "1": "2025-01-09 14:35:18 -0500"
+    },
+    "done": true
+  },
+  "create:deployer": {
+    "criteria": {
+      "0": "2025-01-10 13:25:59 -0500"
+    },
+    "done": true
+  },
+  "repurposed_structures:pyramids": {
+    "criteria": {
+      "in_pyramid_snowy": "2025-01-09 14:35:01 -0500"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2025-01-09 15:02:48 -0500"
+    },
+    "done": true
+  },
+  "create:arm_blaze_burner": {
+    "criteria": {
+      "0": "2025-01-10 13:48:56 -0500"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-01-10 10:24:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-01-09 14:35:18 -0500"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-01-09 14:45:10 -0500"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2025-01-09 15:06:03 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-01-10 11:40:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-01-09 14:35:17 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-01-09 18:13:14 -0500"
+    },
+    "done": true
+  },
+  "create:steam_engine": {
+    "criteria": {
+      "0": "2025-01-09 22:43:39 -0500"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/root": {
+    "criteria": {
+      "manual": "2025-01-09 14:58:13 -0500"
+    },
+    "done": true
+  },
+  "create:crushing_wheel": {
+    "criteria": {
+      "0": "2025-01-10 16:32:14 -0500"
+    },
+    "done": true
+  },
+  "create:mechanical_mixer": {
+    "criteria": {
+      "0": "2025-01-09 23:33:46 -0500"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-01-09 19:16:17 -0500"
+    },
+    "done": true
+  },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2025-01-09 15:48:53 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-01-10 10:22:52 -0500",
+      "minecraft:taiga": "2025-01-09 16:49:45 -0500",
+      "minecraft:deep_ocean": "2025-01-09 16:52:24 -0500",
+      "minecraft:frozen_river": "2025-01-09 14:32:51 -0500",
+      "minecraft:birch_forest": "2025-01-09 16:51:42 -0500",
+      "minecraft:beach": "2025-01-09 16:51:34 -0500",
+      "minecraft:river": "2025-01-09 14:38:26 -0500",
+      "minecraft:snowy_plains": "2025-01-09 14:31:32 -0500",
+      "minecraft:stony_shore": "2025-01-10 10:23:41 -0500",
+      "minecraft:snowy_taiga": "2025-01-10 11:07:01 -0500",
+      "minecraft:cold_ocean": "2025-01-10 10:23:32 -0500",
+      "minecraft:forest": "2025-01-09 14:36:20 -0500",
+      "minecraft:ocean": "2025-01-09 16:51:43 -0500",
+      "minecraft:old_growth_spruce_taiga": "2025-01-09 16:50:58 -0500",
+      "minecraft:snowy_beach": "2025-01-09 14:34:12 -0500",
+      "minecraft:old_growth_birch_forest": "2025-01-10 10:44:58 -0500",
+      "minecraft:plains": "2025-01-09 14:36:19 -0500"
+    },
+    "done": false
+  },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2025-01-09 22:58:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-01-09 14:45:25 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-01-09 23:27:51 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-01-09 15:05:51 -0500"
+    },
+    "done": true
+  },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2025-01-09 23:57:08 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-01-09 14:39:25 -0500"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_hammer": {
+    "criteria": {
+      "hammer": "2025-01-09 14:45:10 -0500"
+    },
+    "done": true
+  },
+  "immersive_aircraft:misc/aircraftery": {
+    "criteria": {
+      "has_item": "2025-01-09 14:43:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-01-09 18:18:11 -0500"
+    },
+    "done": true
+  },
+  "repurposed_structures:witch_huts": {
+    "criteria": {
+      "in_witch_hut_birch": "2025-01-10 10:54:35 -0500"
+    },
+    "done": false
+  },
+  "create:stressometer": {
+    "criteria": {
+      "0": "2025-01-10 14:13:24 -0500"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/root": {
+    "criteria": {
+      "tick": "2025-01-09 14:31:32 -0500"
+    },
+    "done": true
+  },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2025-01-09 22:17:01 -0500"
+    },
+    "done": true
+  },
+  "create:glass_pipe": {
+    "criteria": {
+      "0": "2025-01-10 17:54:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-01-09 15:02:48 -0500"
+    },
+    "done": true
+  },
+  "repurposed_structures:mineshafts": {
+    "criteria": {
+      "in_mineshaft_icy": "2025-01-10 11:45:19 -0500"
+    },
+    "done": false
+  },
+  "create:mechanical_crafter": {
+    "criteria": {
+      "0": "2025-01-10 15:32:39 -0500"
+    },
+    "done": true
+  },
+  "create:funnel": {
+    "criteria": {
+      "0": "2025-01-10 15:16:19 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-01-09 14:31:32 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "rice": "2025-01-09 14:55:28 -0500"
+    },
+    "done": true
+  },
+  "create:sturdy_sheet": {
+    "criteria": {
+      "0": "2025-01-09 18:48:25 -0500"
+    },
+    "done": true
+  },
+  "create:compacting": {
+    "criteria": {
+      "0": "2025-01-10 17:18:59 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:blaze": "2025-01-10 11:40:13 -0500",
+      "minecraft:pillager": "2025-01-10 10:56:30 -0500",
+      "minecraft:skeleton": "2025-01-09 15:02:48 -0500",
+      "minecraft:vindicator": "2025-01-10 10:57:25 -0500",
+      "minecraft:spider": "2025-01-09 21:29:11 -0500",
+      "minecraft:creeper": "2025-01-10 10:07:44 -0500",
+      "minecraft:slime": "2025-01-09 15:40:12 -0500",
+      "minecraft:piglin": "2025-01-09 23:30:16 -0500",
+      "minecraft:enderman": "2025-01-10 20:01:27 -0500",
+      "minecraft:zombie": "2025-01-09 15:31:11 -0500"
+    },
+    "done": false
+  },
+  "immersiveengineering:main/craft_workbench": {
+    "criteria": {
+      "workbench": "2025-01-09 17:57:13 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-01-09 18:13:14 -0500"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/make_steel": {
+    "criteria": {
+      "steel": "2025-01-09 18:45:56 -0500"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/mb_blastfurnace": {
+    "criteria": {
+      "blastfurnace": "2025-01-09 18:41:36 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "baked_potato": "2025-01-09 14:39:25 -0500",
+      "beetroot_soup": "2025-01-10 10:37:24 -0500",
+      "bread": "2025-01-10 10:51:20 -0500"
+    },
+    "done": false
+  },
+  "create:chute": {
+    "criteria": {
+      "0": "2025-01-10 16:21:23 -0500"
+    },
+    "done": true
+  },
+  "create:encased_fan": {
+    "criteria": {
+      "0": "2025-01-10 16:32:14 -0500"
+    },
+    "done": true
+  },
+  "idas:pillager_fortress": {
+    "criteria": {
+      "in_pillager_fortress": "2025-01-10 10:55:37 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-01-09 22:05:21 -0500"
+    },
+    "done": true
+  },
+  "create:brass": {
+    "criteria": {
+      "0": "2025-01-09 18:48:25 -0500"
+    },
+    "done": true
+  },
+  "create:mechanical_pump_0": {
+    "criteria": {
+      "0": "2025-01-09 21:52:46 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-01-09 18:13:15 -0500",
+      "minecraft:nether_wastes": "2025-01-09 23:27:34 -0500"
+    },
+    "done": false
+  },
+  "create:speed_controller": {
+    "criteria": {
+      "0": "2025-01-10 16:33:28 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-01-10 11:02:19 -0500"
+    },
+    "done": true
+  },
+  "idas:sunken_ship": {
+    "criteria": {
+      "in_bearclaw_inn": "2025-01-10 10:30:18 -0500"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-01-09 14:31:32 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-01-09 15:01:26 -0500"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/connect_wire": {
+    "criteria": {
+      "code_trigger": "2025-01-09 19:29:14 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-01-09 14:54:38 -0500"
+    },
+    "done": true
+  },
+  "create:fan_processing": {
+    "criteria": {
+      "0": "2025-01-10 16:46:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-01-09 14:58:10 -0500"
+    },
+    "done": true
+  },
+  "create:track_0": {
+    "criteria": {
+      "0": "2025-01-09 15:05:57 -0500"
+    },
+    "done": true
+  },
+  "create:burner": {
+    "criteria": {
+      "0": "2025-01-09 18:48:25 -0500"
+    },
+    "done": true
+  },
+  "player_companions:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2025-01-09 14:31:32 -0500"
+    },
+    "done": true
+  },
+  "create:precision_mechanism": {
+    "criteria": {
+      "0": "2025-01-10 13:46:33 -0500"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_skyhook": {
+    "criteria": {
+      "skyhook": "2025-01-09 21:14:15 -0500"
+    },
+    "done": true
+  },
+  "create:water_supply": {
+    "criteria": {
+      "0": "2025-01-09 21:52:48 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-01-10 10:37:24 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-01-09 14:43:16 -0500"
+    },
+    "done": true
+  },
+  "create:brass_casing": {
+    "criteria": {
+      "0": "2025-01-10 13:47:17 -0500"
+    },
+    "done": true
+  },
+  "create:belt": {
+    "criteria": {
+      "0": "2025-01-10 14:54:42 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-09 14:42:34 -0500"
+    },
+    "done": true
+  },
+  "create:rose_quartz": {
+    "criteria": {
+      "0": "2025-01-09 14:45:10 -0500"
+    },
+    "done": true
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2025-01-09 14:31:32 -0500"
+    },
+    "done": true
+  },
+  "DataVersion": 2975
+}
