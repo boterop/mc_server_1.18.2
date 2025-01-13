@@ -17,6 +17,142 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sugar_cane": "2025-01-12 17:03:27 -0500",
+      "wheat": "2025-01-08 18:35:34 -0500",
+      "carrot": "2025-01-08 19:50:33 -0500"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2025-01-08 19:53:54 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:pig": "2025-01-08 19:50:14 -0500",
+      "minecraft:sheep": "2025-01-12 16:58:06 -0500",
+      "minecraft:cow": "2025-01-12 15:04:34 -0500"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2025-01-12 14:39:47 -0500",
+      "minecraft:skeleton": "2025-01-08 19:53:54 -0500",
+      "minecraft:spider": "2025-01-08 20:10:33 -0500",
+      "minecraft:creeper": "2025-01-12 15:13:55 -0500",
+      "minecraft:phantom": "2025-01-12 15:13:26 -0500",
+      "minecraft:stray": "2025-01-12 16:34:14 -0500",
+      "minecraft:zombie": "2025-01-12 14:52:25 -0500",
+      "minecraft:drowned": "2025-01-12 14:47:18 -0500"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-01-12 19:22:48 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-01-08 19:43:10 -0500"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-01-08 18:38:53 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-01-08 19:50:14 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "baked_potato": "2025-01-08 18:02:27 -0500",
+      "apple": "2025-01-12 16:03:35 -0500",
+      "bread": "2025-01-11 21:45:28 -0500",
+      "carrot": "2025-01-12 18:53:41 -0500"
+    },
+    "done": false
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2025-01-11 20:59:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-01-08 18:40:21 -0500"
+    },
+    "done": true
+  },
+  "idas:pillager_fortress": {
+    "criteria": {
+      "in_pillager_fortress": "2025-01-12 14:41:48 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-01-12 18:21:20 -0500"
+    },
+    "done": true
+  },
+  "create:brass": {
+    "criteria": {
+      "0": "2025-01-11 20:35:46 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-01-12 15:35:41 -0500",
+      "minecraft:taiga": "2025-01-11 18:29:03 -0500",
+      "minecraft:deep_ocean": "2025-01-12 18:57:10 -0500",
+      "minecraft:frozen_river": "2025-01-08 17:56:19 -0500",
+      "minecraft:birch_forest": "2025-01-12 14:59:46 -0500",
+      "minecraft:savanna_plateau": "2025-01-12 19:00:46 -0500",
+      "minecraft:beach": "2025-01-08 18:26:11 -0500",
+      "minecraft:sparse_jungle": "2025-01-12 18:58:54 -0500",
+      "minecraft:river": "2025-01-08 18:26:55 -0500",
+      "minecraft:lukewarm_ocean": "2025-01-12 18:58:16 -0500",
+      "minecraft:snowy_plains": "2025-01-08 17:44:39 -0500",
+      "minecraft:stony_shore": "2025-01-12 18:56:45 -0500",
+      "minecraft:cold_ocean": "2025-01-12 18:56:54 -0500",
+      "minecraft:forest": "2025-01-08 18:04:22 -0500",
+      "minecraft:deep_cold_ocean": "2025-01-12 18:57:02 -0500",
+      "minecraft:ocean": "2025-01-12 18:57:06 -0500",
+      "minecraft:jungle": "2025-01-12 18:59:05 -0500",
+      "minecraft:old_growth_spruce_taiga": "2025-01-12 15:35:59 -0500",
+      "minecraft:snowy_beach": "2025-01-08 18:02:38 -0500",
+      "minecraft:savanna": "2025-01-12 19:00:38 -0500",
+      "minecraft:plains": "2025-01-08 18:03:02 -0500"
+    },
+    "done": false
+  },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2025-01-11 21:01:14 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-01-12 14:41:22 -0500"
+    },
+    "done": true
+  },
   "create:root": {
     "criteria": {
       "0": "2025-01-08 17:44:39 -0500"
@@ -41,35 +177,21 @@
     },
     "done": true
   },
-  "farmersdelight:main/plant_all_crops": {
+  "immersive_aircraft:misc/aircraftery": {
     "criteria": {
-      "wheat": "2025-01-08 18:35:34 -0500",
-      "carrot": "2025-01-08 19:50:33 -0500"
-    },
-    "done": false
-  },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:skeleton": "2025-01-08 19:53:54 -0500"
+      "has_item": "2025-01-11 20:31:24 -0500"
     },
     "done": true
-  },
-  "minecraft:husbandry/bred_all_animals": {
-    "criteria": {
-      "minecraft:pig": "2025-01-08 19:50:14 -0500"
-    },
-    "done": false
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:skeleton": "2025-01-08 19:53:54 -0500",
-      "minecraft:spider": "2025-01-08 20:10:33 -0500"
-    },
-    "done": false
   },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-01-08 18:41:55 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-01-11 21:23:04 -0500"
     },
     "done": true
   },
@@ -85,29 +207,11 @@
     },
     "done": true
   },
-  "minecraft:story/obtain_armor": {
+  "create:precision_mechanism": {
     "criteria": {
-      "iron_helmet": "2025-01-08 19:43:10 -0500"
+      "0": "2025-01-11 20:58:11 -0500"
     },
     "done": true
-  },
-  "create:copper": {
-    "criteria": {
-      "0": "2025-01-08 18:38:53 -0500"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/breed_an_animal": {
-    "criteria": {
-      "bred": "2025-01-08 19:50:14 -0500"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "baked_potato": "2025-01-08 18:02:27 -0500"
-    },
-    "done": false
   },
   "minecraft:story/smelt_iron": {
     "criteria": {
@@ -115,9 +219,9 @@
     },
     "done": true
   },
-  "minecraft:story/mine_stone": {
+  "create:brass_casing": {
     "criteria": {
-      "get_stone": "2025-01-08 18:40:21 -0500"
+      "0": "2025-01-11 20:59:23 -0500"
     },
     "done": true
   },
@@ -133,18 +237,23 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
+  "create:rose_quartz": {
     "criteria": {
-      "minecraft:taiga": "2025-01-11 18:29:03 -0500",
-      "minecraft:frozen_river": "2025-01-08 17:56:19 -0500",
-      "minecraft:beach": "2025-01-08 18:26:11 -0500",
-      "minecraft:river": "2025-01-08 18:26:55 -0500",
-      "minecraft:snowy_plains": "2025-01-08 17:44:39 -0500",
-      "minecraft:forest": "2025-01-08 18:04:22 -0500",
-      "minecraft:snowy_beach": "2025-01-08 18:02:38 -0500",
-      "minecraft:plains": "2025-01-08 18:03:02 -0500"
+      "0": "2025-01-11 20:43:44 -0500"
     },
-    "done": false
+    "done": true
+  },
+  "create:funnel": {
+    "criteria": {
+      "0": "2025-01-11 21:52:55 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-01-12 14:49:58 -0500"
+    },
+    "done": true
   },
   "repurposed_structures:root": {
     "criteria": {

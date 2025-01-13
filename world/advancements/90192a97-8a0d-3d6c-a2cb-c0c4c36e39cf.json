@@ -40,6 +40,7 @@
   },
   "repurposed_structures:pyramids": {
     "criteria": {
+      "in_pyramid_jungle": "2025-01-12 17:23:19 -0500",
       "in_pyramid_snowy": "2023-01-29 13:07:51 -0500"
     },
     "done": false
@@ -73,6 +74,12 @@
       "ex": "2023-01-26 11:57:05 -0500"
     },
     "done": true
+  },
+  "repurposed_structures:villages": {
+    "criteria": {
+      "in_village_jungle": "2025-01-12 17:25:28 -0500"
+    },
+    "done": false
   },
   "minecraft:story/obtain_armor": {
     "criteria": {
@@ -150,17 +157,33 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2023-01-29 12:35:34 -0500",
       "minecraft:taiga": "2023-01-29 12:34:24 -0500",
+      "minecraft:deep_ocean": "2025-01-12 15:49:37 -0500",
       "minecraft:frozen_river": "2023-01-26 11:48:00 -0500",
+      "minecraft:birch_forest": "2025-01-12 13:21:28 -0500",
+      "minecraft:wooded_badlands": "2025-01-12 17:20:14 -0500",
+      "minecraft:bamboo_jungle": "2025-01-12 17:21:33 -0500",
+      "minecraft:badlands": "2025-01-12 16:43:10 -0500",
+      "minecraft:savanna_plateau": "2025-01-12 16:26:44 -0500",
       "minecraft:beach": "2023-01-26 11:54:36 -0500",
+      "minecraft:sparse_jungle": "2025-01-12 15:54:25 -0500",
       "minecraft:river": "2023-01-26 11:48:13 -0500",
+      "minecraft:lukewarm_ocean": "2025-01-12 15:50:27 -0500",
       "minecraft:snowy_plains": "2023-01-26 11:25:13 -0500",
+      "minecraft:stony_shore": "2025-01-12 15:51:00 -0500",
       "minecraft:snowy_taiga": "2023-01-29 13:14:05 -0500",
       "minecraft:dripstone_caves": "2023-04-13 22:17:41 -0500",
       "minecraft:cold_ocean": "2023-01-29 12:37:47 -0500",
       "minecraft:forest": "2023-01-26 11:56:24 -0500",
       "minecraft:lush_caves": "2023-02-03 18:30:41 -0500",
+      "minecraft:deep_cold_ocean": "2025-01-12 17:04:49 -0500",
+      "minecraft:desert": "2025-01-12 16:43:08 -0500",
+      "minecraft:ocean": "2025-01-12 15:49:22 -0500",
+      "minecraft:jungle": "2025-01-12 15:55:18 -0500",
       "minecraft:old_growth_spruce_taiga": "2023-01-29 12:35:41 -0500",
       "minecraft:snowy_beach": "2023-02-03 20:27:46 -0500",
+      "minecraft:deep_lukewarm_ocean": "2025-01-12 15:50:22 -0500",
+      "minecraft:old_growth_birch_forest": "2025-01-12 16:29:48 -0500",
+      "minecraft:savanna": "2025-01-12 15:51:04 -0500",
       "minecraft:plains": "2023-01-26 11:48:12 -0500"
     },
     "done": false
@@ -218,6 +241,12 @@
       "in_outpost_snowy": "2023-01-29 13:13:22 -0500"
     },
     "done": false
+  },
+  "immersive_aircraft:misc/aircraftery": {
+    "criteria": {
+      "has_item": "2025-01-12 12:40:29 -0500"
+    },
+    "done": true
   },
   "create:portable_storage_interface": {
     "criteria": {
@@ -324,11 +353,18 @@
       "minecraft:piglin": "2023-01-29 20:13:50 -0500",
       "minecraft:enderman": "2023-01-26 11:55:24 -0500",
       "minecraft:stray": "2023-01-29 13:04:30 -0500",
+      "minecraft:vex": "2025-01-12 14:27:35 -0500",
       "minecraft:zombie": "2023-01-26 11:54:11 -0500",
       "minecraft:drowned": "2023-01-29 11:29:11 -0500",
       "minecraft:zombie_villager": "2023-01-26 12:35:42 -0500"
     },
     "done": false
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "salmon": "2025-01-12 17:52:08 -0500"
+    },
+    "done": true
   },
   "minecraft:story/enter_the_nether": {
     "criteria": {
@@ -355,6 +391,7 @@
       "melon_slice": "2023-01-29 12:54:45 -0500",
       "cooked_rabbit": "2023-01-29 13:48:34 -0500",
       "cooked_chicken": "2023-01-29 11:19:41 -0500",
+      "cod": "2025-01-12 17:55:19 -0500",
       "cooked_salmon": "2023-01-29 12:29:46 -0500",
       "carrot": "2023-02-03 18:43:56 -0500"
     },
@@ -378,6 +415,18 @@
     },
     "done": true
   },
+  "idas:pillager_fortress": {
+    "criteria": {
+      "in_pillager_fortress": "2025-01-12 13:21:01 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-01-12 20:39:18 -0500"
+    },
+    "done": true
+  },
   "create:brass": {
     "criteria": {
       "0": "2023-01-30 21:08:12 -0500"
@@ -389,6 +438,13 @@
       "0": "2023-04-10 23:33:09 -0500"
     },
     "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "textures/entity/cat/black.png": "2025-01-12 17:38:03 -0500",
+      "textures/entity/cat/red.png": "2025-01-12 19:16:53 -0500"
+    },
+    "done": false
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
@@ -442,6 +498,12 @@
   "create:fan_processing": {
     "criteria": {
       "0": "2023-01-30 21:42:12 -0500"
+    },
+    "done": true
+  },
+  "idas:hunters_cabin": {
+    "criteria": {
+      "in_hunters_cabin": "2025-01-12 17:26:07 -0500"
     },
     "done": true
   },
