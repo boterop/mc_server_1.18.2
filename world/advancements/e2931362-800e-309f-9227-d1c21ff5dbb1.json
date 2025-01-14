@@ -48,7 +48,8 @@
       "minecraft:phantom": "2025-01-12 15:13:26 -0500",
       "minecraft:stray": "2025-01-12 16:34:14 -0500",
       "minecraft:zombie": "2025-01-12 14:52:25 -0500",
-      "minecraft:drowned": "2025-01-12 14:47:18 -0500"
+      "minecraft:drowned": "2025-01-12 14:47:18 -0500",
+      "minecraft:zombie_villager": "2025-01-13 17:48:05 -0500"
     },
     "done": false
   },
@@ -122,6 +123,7 @@
       "minecraft:deep_ocean": "2025-01-12 18:57:10 -0500",
       "minecraft:frozen_river": "2025-01-08 17:56:19 -0500",
       "minecraft:birch_forest": "2025-01-12 14:59:46 -0500",
+      "minecraft:badlands": "2025-01-13 18:22:12 -0500",
       "minecraft:savanna_plateau": "2025-01-12 19:00:46 -0500",
       "minecraft:beach": "2025-01-08 18:26:11 -0500",
       "minecraft:sparse_jungle": "2025-01-12 18:58:54 -0500",
@@ -132,6 +134,7 @@
       "minecraft:cold_ocean": "2025-01-12 18:56:54 -0500",
       "minecraft:forest": "2025-01-08 18:04:22 -0500",
       "minecraft:deep_cold_ocean": "2025-01-12 18:57:02 -0500",
+      "minecraft:desert": "2025-01-13 18:22:04 -0500",
       "minecraft:ocean": "2025-01-12 18:57:06 -0500",
       "minecraft:jungle": "2025-01-12 18:59:05 -0500",
       "minecraft:old_growth_spruce_taiga": "2025-01-12 15:35:59 -0500",
@@ -234,6 +237,12 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-01-08 18:35:34 -0500"
+    },
+    "done": true
+  },
+  "idas:castle": {
+    "criteria": {
+      "in_castle": "2025-01-13 18:07:29 -0500"
     },
     "done": true
   },

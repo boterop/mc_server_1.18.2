@@ -38,7 +38,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "sweet_berries": "2025-01-11 18:51:10 -0500"
+      "sweet_berries": "2025-01-11 18:51:10 -0500",
+      "wheat": "2025-01-13 14:42:30 -0500"
     },
     "done": false
   },
@@ -70,6 +71,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2025-01-09 14:35:18 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sniper_duel": {
+    "criteria": {
+      "killed_skeleton": "2025-01-13 01:15:17 -0500"
     },
     "done": true
   },
@@ -160,6 +167,7 @@
       "minecraft:snowy_taiga": "2025-01-10 11:07:01 -0500",
       "minecraft:cold_ocean": "2025-01-10 10:23:32 -0500",
       "minecraft:forest": "2025-01-09 14:36:20 -0500",
+      "minecraft:lush_caves": "2025-01-13 00:32:36 -0500",
       "minecraft:deep_cold_ocean": "2025-01-12 17:42:09 -0500",
       "minecraft:ocean": "2025-01-09 16:51:43 -0500",
       "minecraft:old_growth_spruce_taiga": "2025-01-09 16:50:58 -0500",
@@ -225,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-01-13 00:46:30 -0500"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2025-01-09 18:18:11 -0500"
@@ -264,6 +278,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-01-09 15:02:48 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-01-13 14:42:30 -0500"
     },
     "done": true
   },
@@ -329,7 +349,8 @@
       "minecraft:witch": "2025-01-12 13:15:40 -0500",
       "minecraft:piglin": "2025-01-09 23:30:16 -0500",
       "minecraft:enderman": "2025-01-10 20:01:27 -0500",
-      "minecraft:zombie": "2025-01-09 15:31:11 -0500"
+      "minecraft:zombie": "2025-01-09 15:31:11 -0500",
+      "minecraft:zombie_villager": "2025-01-13 15:15:28 -0500"
     },
     "done": false
   },
@@ -383,11 +404,19 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "chicken": "2025-01-13 18:22:29 -0500",
       "sweet_berries": "2025-01-11 19:04:19 -0500",
       "baked_potato": "2025-01-09 14:39:25 -0500",
+      "beef": "2025-01-13 17:27:03 -0500",
+      "porkchop": "2025-01-13 17:40:22 -0500",
       "beetroot_soup": "2025-01-10 10:37:24 -0500",
       "bread": "2025-01-10 10:51:20 -0500",
+      "golden_apple": "2025-01-13 14:15:32 -0500",
       "glow_berries": "2025-01-12 18:31:04 -0500",
+      "dried_kelp": "2025-01-13 01:12:13 -0500",
+      "melon_slice": "2025-01-13 14:22:42 -0500",
+      "golden_carrot": "2025-01-13 17:39:47 -0500",
+      "enchanted_golden_apple": "2025-01-13 18:32:49 -0500",
       "mushroom_stew": "2025-01-12 15:25:19 -0500",
       "carrot": "2025-01-11 21:48:41 -0500"
     },
@@ -529,6 +558,12 @@
   "create:precision_mechanism": {
     "criteria": {
       "0": "2025-01-10 13:46:33 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-01-13 18:40:42 -0500"
     },
     "done": true
   },

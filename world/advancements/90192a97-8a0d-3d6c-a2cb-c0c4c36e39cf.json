@@ -442,7 +442,8 @@
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
       "textures/entity/cat/black.png": "2025-01-12 17:38:03 -0500",
-      "textures/entity/cat/red.png": "2025-01-12 19:16:53 -0500"
+      "textures/entity/cat/red.png": "2025-01-12 19:16:53 -0500",
+      "textures/entity/cat/calico.png": "2025-01-13 18:33:01 -0500"
     },
     "done": false
   },
@@ -543,6 +544,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-01-13 18:38:48 -0500"
+    },
+    "done": true
+  },
   "farmersdelight:main/eat_comfort_food": {
     "criteria": {
       "comfort": "2023-01-29 12:45:03 -0500"
@@ -582,6 +589,12 @@
   "alexsmobs:alexsmobs/crimson_mosquito": {
     "criteria": {
       "killed": "2023-01-29 20:13:20 -0500"
+    },
+    "done": true
+  },
+  "idas:castle": {
+    "criteria": {
+      "in_castle": "2025-01-13 18:07:29 -0500"
     },
     "done": true
   },
